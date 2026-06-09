@@ -50,3 +50,40 @@
 - [Success Metrics](./metrics.md)
 - [MVP Success Definition](./mvp-success.md)
 - [Future Roadmap](./roadmap.md)
+
+---
+
+# UX Recommendations
+
+- [Overview](./ux-recommendations/overview.md)
+- [Layout and Navigation](./ux-recommendations/layout.md)
+- [Brain Dump UX](./ux-recommendations/brain-dump-ux.md)
+- [Focus Mode UX](./ux-recommendations/focus-mode-ux.md)
+- [Daily Briefing UX](./ux-recommendations/briefing-ux.md)
+- [Memory Vault UX](./ux-recommendations/memory-vault-ux.md)
+- [AI Body Double UX](./ux-recommendations/body-double-ux.md)
+- [Momentum Mode UX](./ux-recommendations/momentum-ux.md)
+- [Context Recovery UX](./ux-recommendations/context-recovery-ux.md)
+- [Overwhelm Detection UX](./ux-recommendations/overwhelm-ux.md)
+- [Onboarding UX](./ux-recommendations/onboarding-ux.md)
+- [Notifications UX](./ux-recommendations/notifications-ux.md)
+- [Accessibility](./ux-recommendations/accessibility.md)
+
+---
+
+# Copy Deck
+
+- [Overview and Voice & Tone](./copy-deck/overview.md)
+- [Onboarding Copy](./copy-deck/onboarding.md)
+- [Brain Dump Copy](./copy-deck/brain-dump-copy.md)
+- [Focus Mode Copy](./copy-deck/focus-mode-copy.md)
+- [Daily Briefing Copy](./copy-deck/briefing-copy.md)
+- [Memory Vault Copy](./copy-deck/memory-vault-copy.md)
+- [AI Body Double Copy](./copy-deck/body-double-copy.md)
+- [Momentum Mode Copy](./copy-deck/momentum-copy.md)
+- [Context Recovery Copy](./copy-deck/context-recovery-copy.md)
+- [Overwhelm Detection Copy](./copy-deck/overwhelm-copy.md)
+- [Notifications Copy](./copy-deck/notifications-copy.md)
+- [Empty States Copy](./copy-deck/empty-states-copy.md)
+- [Error States Copy](./copy-deck/error-states-copy.md)
+- [Subscription and Upgrade Copy](./copy-deck/subscription-copy.md)
