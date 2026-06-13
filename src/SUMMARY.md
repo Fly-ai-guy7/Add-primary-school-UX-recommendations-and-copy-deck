@@ -87,3 +87,57 @@
 - [Empty States Copy](./copy-deck/empty-states-copy.md)
 - [Error States Copy](./copy-deck/error-states-copy.md)
 - [Subscription and Upgrade Copy](./copy-deck/subscription-copy.md)
+
+---
+
+# Business Plan
+
+- [Overview](./business-plan/overview.md)
+- [Executive Summary](./business-plan/executive-summary.md)
+- [The Problem](./business-plan/the-problem.md)
+- [The Solution](./business-plan/the-solution.md)
+- [Market Opportunity](./business-plan/market-opportunity.md)
+- [Business Model](./business-plan/business-model.md)
+- [Go-to-Market Strategy](./business-plan/go-to-market.md)
+- [Competitive Landscape](./business-plan/competitive-landscape.md)
+- [Team](./business-plan/team.md)
+- [Financial Projections](./business-plan/financials.md)
+- [Risks and Mitigations](./business-plan/risks.md)
+- [Vision](./business-plan/vision.md)
+
+---
+
+# ROI Analysis
+
+- [Overview](./roi/overview.md)
+- [User ROI](./roi/user-roi.md)
+- [Time and Revenue Recovery Framework](./roi/time-recovery.md)
+- [Market ROI — Investor Analysis](./roi/market-roi.md)
+- [Unit Economics](./roi/unit-economics.md)
+
+---
+
+# Outreach
+
+- [Overview](./outreach/overview.md)
+- [Community Introduction Posts](./outreach/community-intro.md)
+- [Email / DM — ADHD Professionals](./outreach/adhd-cold-outreach.md)
+- [Beta Waitlist Landing Copy](./outreach/waitlist-copy.md)
+- [ADHD Entrepreneur One-Pager](./outreach/adhd-one-pager.md)
+- [Social Content Templates](./outreach/social-content.md)
+- [Investor Introduction Email](./outreach/investor-intro-email.md)
+- [Investor One-Pager](./outreach/investor-one-pager.md)
+- [Investor Follow-Up Templates](./outreach/investor-follow-up.md)
+- [Angel Investor Talking Points](./outreach/angel-talking-points.md)
+
+---
+
+# Technical Architecture
+
+- [Overview](./tech-architecture/overview.md)
+- [Frontend](./tech-architecture/frontend.md)
+- [Backend API](./tech-architecture/backend.md)
+- [AI Layer](./tech-architecture/ai-layer.md)
+- [Data Layer](./tech-architecture/data-layer.md)
+- [Security and Compliance](./tech-architecture/security.md)
+- [Infrastructure and Deployment](./tech-architecture/infrastructure.md)
