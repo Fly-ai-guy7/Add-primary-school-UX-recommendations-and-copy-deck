@@ -2,7 +2,7 @@
 
 **Company:** Astra Intelligence Services
 **Product:** FocusFlow AI™
-**Founder:** Bruce Mc.
+**Founder:** Bruce McNamara
 **Version:** Pre-Seed | June 2026
 **Status:** Active Development
 

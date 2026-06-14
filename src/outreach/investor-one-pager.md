@@ -8,7 +8,7 @@
 
 **An AI executive function operating system for ADHD professionals.**
 **Company:** Astra Intelligence Services | **Stage:** Pre-seed, active development
-**Founder:** Bruce Mc. | **Location:** Egypt
+**Founder:** Bruce McNamara | **Location:** Egypt
 
 ---
 
@@ -71,7 +71,7 @@ MVP specification, UX design, copy deck, and technical architecture complete. Pr
 
 ### Founder
 
-**Bruce Mc.** — ADHD entrepreneur. Built FocusFlow because he needed it. Direct lived experience is the most credible possible founder-market fit in this category.
+**Bruce McNamara** — ADHD entrepreneur. Built FocusFlow because he needed it. Direct lived experience is the most credible possible founder-market fit in this category.
 
 ---
 
@@ -84,4 +84,4 @@ MVP specification, UX design, copy deck, and technical architecture complete. Pr
 
 ---
 
-**Contact:** Bruce Mc. | brucemc5858@gmail.com
+**Contact:** Bruce McNamara | brucemc5858@gmail.com

@@ -25,7 +25,7 @@ For cold or warm introductions to Egyptian angel investors. Tone: professional b
 > Would you be open to a 20-minute call at your convenience?
 >
 > Best,
-> Bruce Mc.
+> Bruce McNamara
 > Founder, Astra Intelligence Services / FocusFlow AI™
 
 ---
@@ -52,7 +52,7 @@ For cold or warm introductions to Egyptian angel investors. Tone: professional b
 >
 > Happy to share the full business plan or a brief deck if that would be useful. Would you be open to a short introductory call?
 >
-> Bruce Mc.
+> Bruce McNamara
 > Founder, Astra Intelligence Services
 > brucemc5858@gmail.com
 
@@ -77,5 +77,5 @@ For cold or warm introductions to Egyptian angel investors. Tone: professional b
 >
 > I've attached [the one-pager / business plan excerpt] and would welcome the opportunity to discuss further.
 >
-> Bruce Mc.
+> Bruce McNamara
 > Founder, Astra Intelligence Services

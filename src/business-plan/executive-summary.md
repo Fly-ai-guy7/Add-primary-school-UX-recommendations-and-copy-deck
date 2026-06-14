@@ -62,4 +62,4 @@ Astra Intelligence Services is not currently seeking external funding. This busi
 
 ## Founder
 
-Bruce Mc. is the founder and CEO of Astra Intelligence Services. He brings direct lived experience with ADHD alongside a background in business and technology. FocusFlow AI™ is built from personal necessity as much as market opportunity — the founder is the first user.
+Bruce McNamara is the founder and CEO of Astra Intelligence Services. He brings direct lived experience with ADHD alongside a background in business and technology. FocusFlow AI™ is built from personal necessity as much as market opportunity — the founder is the first user.

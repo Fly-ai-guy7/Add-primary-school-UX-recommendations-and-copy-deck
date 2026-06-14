@@ -13,7 +13,7 @@ Build a core community of ADHD professionals in Egypt and the Arabic-speaking wo
 - LinkedIn ADHD professional communities
 
 **Founder-Led Content**
-Bruce Mc. publishes content from personal experience — the founder with ADHD building a tool for ADHD. This is a credible, differentiated voice in a space where most content is from neurotypical researchers or clinicians. Platforms: LinkedIn, Instagram, TikTok.
+Bruce McNamara publishes content from personal experience — the founder with ADHD building a tool for ADHD. This is a credible, differentiated voice in a space where most content is from neurotypical researchers or clinicians. Platforms: LinkedIn, Instagram, TikTok.
 
 **ADHD Influencer and Advocate Partnerships**
 Identify 5–10 Arabic-language ADHD creators and coaches. Offer early Pro access in exchange for honest reviews and community introductions. No paid sponsorships at this stage — earned trust only.

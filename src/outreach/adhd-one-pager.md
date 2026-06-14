@@ -63,7 +63,7 @@ FocusFlow is in beta. Early users get **3 months of Pro free** and direct input 
 
 ### Built By
 
-Bruce Mc. — founder of Astra Intelligence Services. ADHD entrepreneur. Built this because nothing else worked.
+Bruce McNamara — founder of Astra Intelligence Services. ADHD entrepreneur. Built this because nothing else worked.
 
 ---
 

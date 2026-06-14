@@ -1,8 +1,8 @@
 # Team
 
-## Founder and CEO — Bruce Mc.
+## Founder and CEO — Bruce McNamara
 
-Bruce Mc. is the founder and CEO of Astra Intelligence Services and the creator of FocusFlow AI™.
+Bruce McNamara is the founder and CEO of Astra Intelligence Services and the creator of FocusFlow AI™.
 
 He brings a rare combination of lived experience, entrepreneurial background, and technical vision to the problem. FocusFlow AI™ was not built from market research alone — it was built from the personal experience of an entrepreneur with ADHD who cycled through every productivity tool available and found that none of them worked.
 

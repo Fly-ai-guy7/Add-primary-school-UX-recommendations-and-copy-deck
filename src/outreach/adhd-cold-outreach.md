@@ -20,7 +20,7 @@ Use these templates when reaching out directly to ADHD creators, coaches, consul
 >
 > Happy to send you more details or jump on a 15-minute call if that's easier.
 >
-> Bruce Mc.
+> Bruce McNamara
 > Founder, FocusFlow AI™ / Astra Intelligence Services
 
 ---
@@ -59,7 +59,7 @@ Use these templates when reaching out directly to ADHD creators, coaches, consul
 >
 > I'll keep it short — happy to send a one-pager or jump on a quick call.
 >
-> Bruce Mc.
+> Bruce McNamara
 > Founder, Astra Intelligence Services
 
 ---

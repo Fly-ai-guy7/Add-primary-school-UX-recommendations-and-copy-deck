@@ -77,7 +77,7 @@ No alarm. No badge count. Just calm.
 >
 > FocusFlow is.
 >
-> — Bruce Mc., Founder
+> — Bruce McNamara, Founder
 
 ---
 

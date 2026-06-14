@@ -61,7 +61,7 @@
 
 ## Risk 6 — Founder Single Point of Failure
 
-**Risk:** As a solo founder, Bruce Mc. is the single point of failure for product vision, engineering oversight, and business development.
+**Risk:** As a solo founder, Bruce McNamara is the single point of failure for product vision, engineering oversight, and business development.
 
 **Mitigation:**
 - First advisory hires prioritised in domains where founder expertise is thinnest
