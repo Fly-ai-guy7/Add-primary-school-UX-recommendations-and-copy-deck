@@ -1,0 +1,10 @@
+[book]
+authors = ["Astra Intelligence Services"]
+language = "en"
+multilingual = false
+src = "src"
+title = "FocusFlow AI™ — Product Requirements Document v1.0"
+
+[output.html]
+default-theme = "navy"
+git-repository-url = "https://github.com/fly-ai-guy7/add-primary-school-ux-recommendations-and-copy-deck"
